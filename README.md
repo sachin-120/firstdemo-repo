@@ -1,3 +1,4 @@
 # firstdemo-repo
-This is the my first repository 
-Author sachin
+This is the my first repository.
+<br>
+Author-sachin
